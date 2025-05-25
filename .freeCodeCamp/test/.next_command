@@ -318,3 +318,4 @@ echo "echo -e '\n~~ Fortune Teller ~~\n'" >> fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo ${ARR[*]}
+declare -p ARR
