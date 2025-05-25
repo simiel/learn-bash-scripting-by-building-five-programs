@@ -89,3 +89,4 @@ man echo
 clear
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
