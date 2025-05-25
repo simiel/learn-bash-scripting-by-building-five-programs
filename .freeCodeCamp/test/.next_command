@@ -107,3 +107,4 @@ help if
 __vsc_prompt_cmd_original
 clear
 help
+man if
