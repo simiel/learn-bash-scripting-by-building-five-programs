@@ -278,3 +278,4 @@ NUMBER=$RANDOM
 ./bingo.sh
 __vsc_prompt_cmd_original
 I=0
+echo $I
