@@ -273,3 +273,5 @@ declare -p
 clear
 echo $RANDOM
 NUMBER=$RANDOM
+./bingo.sh
+./bingo.sh
