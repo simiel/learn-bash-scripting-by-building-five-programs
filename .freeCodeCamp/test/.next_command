@@ -331,3 +331,5 @@ help test
 ./fortune.sh
 help test
 help [[
+[[ hello == hello ]]
+[[ hello == hello ]]
