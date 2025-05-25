@@ -216,3 +216,5 @@ __vsc_prompt_cmd_original
 ./countdown.sh test
 help
 ./countdown.sh test
+./countdown.sh test
+./countdown.sh 10
