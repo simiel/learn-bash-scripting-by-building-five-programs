@@ -99,3 +99,6 @@ echo
 echo
 echo "#! /bin/bash" > countdown.sh
 ./countdown.sh
+./countdown.sh test man
+./countdown.sh test man
+./countdown.sh arg1 arg2 arg3
