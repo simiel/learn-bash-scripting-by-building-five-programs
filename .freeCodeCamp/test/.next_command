@@ -312,3 +312,4 @@ help test
 touch fortune.sh
 chmod +x fortune.sh
 echo "#! /bin/bash" >> fortune.sh
+echo "# Program to tell a persons fortune" >> fortune.sh
