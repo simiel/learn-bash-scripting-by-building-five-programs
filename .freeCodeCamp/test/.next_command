@@ -305,3 +305,6 @@ echo $(( RANDOM%75 + 1 ))
 help let
 help if
 help test
+./bingo.sh
+./bingo.sh
+./bingo.sh
