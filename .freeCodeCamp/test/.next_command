@@ -315,3 +315,4 @@ echo "#! /bin/bash" >> fortune.sh
 echo "# Program to tell a persons fortune" >> fortune.sh
 echo "echo -e '\n~~ Fortune Teller ~~\n'" >> fortune.sh
 ./fortune.sh
+ARR=("a" "b" "c")
