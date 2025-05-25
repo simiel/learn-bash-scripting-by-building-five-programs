@@ -98,3 +98,4 @@ __vsc_prompt_cmd_original
 echo
 echo
 echo "#! /bin/bash" > countdown.sh
+./countdown.sh
