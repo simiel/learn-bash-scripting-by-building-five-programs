@@ -218,3 +218,4 @@ help
 ./countdown.sh test
 ./countdown.sh test
 ./countdown.sh 10
+help
