@@ -339,3 +339,4 @@ help [[
 __vsc_prompt_cmd_original
 [[ hello =~ "lo wor" ]]
 [[ "hello world" =~ "lo wor" ]]
+[[ "hello world" =~ ^h ]]
