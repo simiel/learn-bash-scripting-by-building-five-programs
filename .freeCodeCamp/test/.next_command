@@ -272,3 +272,4 @@ printenv -p
 declare -p
 clear
 echo $RANDOM
+NUMBER=$RANDOM
