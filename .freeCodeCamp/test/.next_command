@@ -233,3 +233,4 @@ chmod +x bingo.sh
 echo
 echo "#! /bin/bash" > bingo.sh
 echo "# Bingo Number Generator" >> bingo.sh
+./bingo.sh
