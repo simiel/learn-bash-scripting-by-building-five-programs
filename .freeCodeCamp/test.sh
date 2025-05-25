@@ -1,25 +1,20 @@
-#! /bin/bash
+#!/bin/bash
 
-echo -e "\n~~ Questionnaire ~~\n"
+# Program that counts down to zero from a given argument
 
-QUESTION1="What's your name?"
-echo $QUESTION1
+echo -e "\n~~ Countdown Timer ~~\n"
 
-read NAME
+if [[ $1 -gt 0 ]]
+then
+  : 'for (( i = $1; i >= 0; i-- ))
+  do
+    echo $i
+    sleep 1
+  done
+  '
+  I=$1
+else
+  echo "Include a positive integer as the first argument."
+fi
 
-echo Hello $NAME.
-
-QUESTION2="Where are you from?"
-echo $QUESTION2
-
-read LOCATION
-
-echo Hello $NAME from $LOCATION.
-
-QUESTION3="What's your favorite coding website?"
-echo $QUESTION3
-
-read WEBSITE
-
-# echo Hello $NAME from $LOCATION.
-echo $WEBSITE
+echo $I
