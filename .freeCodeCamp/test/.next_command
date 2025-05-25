@@ -311,3 +311,4 @@ help test
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+echo "#! /bin/bash" >> fortune.sh
