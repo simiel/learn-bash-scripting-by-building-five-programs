@@ -335,3 +335,4 @@ help [[
 [[ hello == hello ]]
 [[ hello == hworld ]]
 [[ hello == world ]]
+[[ hello =~ el ]]
