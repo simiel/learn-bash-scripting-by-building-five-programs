@@ -235,3 +235,4 @@ echo "#! /bin/bash" > bingo.sh
 echo "# Bingo Number Generator" >> bingo.sh
 ./bingo.sh
 printenv
+echo $LANG
