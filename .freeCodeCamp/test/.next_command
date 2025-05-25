@@ -333,3 +333,5 @@ help test
 help [[
 [[ hello == hello ]]
 [[ hello == hello ]]
+[[ hello == hworld ]]
+[[ hello == world ]]
