@@ -2,4 +2,7 @@
 
 # Program that counts down to zero from a given argument
 
-if
+if [[ $1 == arg1 ]]
+then
+  echo true
+fi
