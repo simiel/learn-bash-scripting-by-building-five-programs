@@ -94,3 +94,7 @@ clear
 clear
 touch countdown.sh
 chmod +x countdown.sh
+__vsc_prompt_cmd_original
+echo
+echo
+echo "#! /bin/bash" > countdown.sh
