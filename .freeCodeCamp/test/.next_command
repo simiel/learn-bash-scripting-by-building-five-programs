@@ -336,3 +336,6 @@ help [[
 [[ hello == hworld ]]
 [[ hello == world ]]
 [[ hello =~ el ]]
+__vsc_prompt_cmd_original
+[[ hello =~ "lo wor" ]]
+[[ "hello world" =~ "lo wor" ]]
