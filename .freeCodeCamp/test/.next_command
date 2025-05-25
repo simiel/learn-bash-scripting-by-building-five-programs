@@ -68,3 +68,5 @@ echo hello questionnaire
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+sh questionnaire.sh
+./questionnaire.sh
