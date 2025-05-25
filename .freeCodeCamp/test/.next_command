@@ -70,3 +70,4 @@ bash questionnaire.sh
 which bash
 sh questionnaire.sh
 ./questionnaire.sh
+ls --color=auto -l
