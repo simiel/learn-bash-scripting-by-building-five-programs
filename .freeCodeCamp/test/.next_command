@@ -275,3 +275,4 @@ echo $RANDOM
 NUMBER=$RANDOM
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
