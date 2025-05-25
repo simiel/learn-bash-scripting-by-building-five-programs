@@ -85,3 +85,6 @@ echo hello world
 echo --help
 man echo
 ./questionnaire.sh
+man echo
+clear
+./questionnaire.sh
